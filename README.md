@@ -2,6 +2,12 @@
 
 <p>This project is a combination of face detection using OpenCV's Haar Cascades and hand tracking using MediaPipe. It calculates the real-time distance between the tips of index fingers of both hands when a face is detected in the webcam feed.</p>
 
+
+
+https://github.com/user-attachments/assets/54577314-8771-4ac7-95b7-17b6bc5bb920
+
+
+
 <h2>Features</h2>
 
 <ul>
